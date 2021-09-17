@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './components/Header/Header';
 import Menu from './components/Menu/Menu';
-import Dashboard from './components/Dashboard/Dashboard';
+import Dashboard from './pages/Admin/Dashboard/Dashboard';
 import Footer from './components/Footer/Footer';
 
 function App() {
